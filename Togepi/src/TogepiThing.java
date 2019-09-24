@@ -8,7 +8,8 @@ public class TogepiThing extends PokeThing {
 	
 	public void step()
 	{
-		move(null);
+		
+		move();
 	}
 	
 }
